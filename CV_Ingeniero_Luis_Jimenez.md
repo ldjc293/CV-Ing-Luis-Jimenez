@@ -45,7 +45,7 @@ Ingeniero Mecánico egresado de la **Universidad Central de Venezuela (UCV)** co
 ## PROYECTOS DESTACADOS
 
 *   **Plataforma Web con IA para Gestión de Condominios:** Desarrollo de una aplicación web integrada con algoritmos de IA para la automatización del registro y optimización de flujos de pago. *(Cuenta con video demostrativo de funcionamiento)*
-*   **Sistema de Analítica de Datos para E-commerce:** Creación de un pipeline de análisis de datos para la empresa actual, automatizando la predicción de demanda de inventario y tendencias de productos domóticos.
+*   **Plataforma B2B de Cotizaciones y Analítica de Inventario:** Desarrollo de un sistema conectado a la tienda de e-commerce que permite a empresas partners generar cotizaciones personalizadas de marca blanca, sincronizar pedidos y generar micrositios web interactivos por propuesta con aprobación/rechazo en línea para el cliente final, además de un módulo analítico para la gestión y predicción de inventario. *(Cuenta con video demostrativo de funcionamiento)*
 *   **Diseño e Integración de Control Domótico:** Programación avanzada de rutinas lógicas de control para automatización de iluminación, clima y seguridad en proyectos residenciales premium.
 
 ---

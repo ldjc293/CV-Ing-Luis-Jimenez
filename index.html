@@ -159,15 +159,27 @@
                         </div>
                         <p>Desarrollo de una aplicación web integrada con algoritmos de IA para la automatización del registro y optimización de flujos de pago de condominios.</p>
                         <div class="project-actions no-print">
-                            <button type="button" class="btn-demo-video" onclick="openVideoModal()">
+                            <button type="button" class="btn-demo-video" onclick="openVideoModal('demo-condominios.mp4', 'Demostración: Plataforma de Gestión con IA', 'Presentación del sistema de gestión y automatización desarrollado por Luis Daniel Jiménez Campos.')">
                                 <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg>
                                 Ver Video Demostrativo
                             </button>
                         </div>
                     </div>
-                    <div class="project-card">
-                        <h3>Sistema de Analítica de Datos para E-commerce</h3>
-                        <p>Creación de un pipeline de análisis de datos para la empresa actual, automatizando la predicción de demanda de inventario y tendencias de productos domóticos.</p>
+                    <div class="project-card featured-project">
+                        <div class="project-title-row">
+                            <h3>Plataforma B2B de Cotizaciones y Analítica de Inventario</h3>
+                            <span class="badge-video">
+                                <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+                                Demo en Video
+                            </span>
+                        </div>
+                        <p>Sistema para partners de e-commerce que permite generar presupuestos personalizados de marca blanca, sincronizar pedidos y crear micrositios web interactivos por propuesta con aprobación/rechazo en línea, además de un módulo analítico de inventario.</p>
+                        <div class="project-actions no-print">
+                            <button type="button" class="btn-demo-video" onclick="openVideoModal('demo-automatizacion-platform.mp4', 'Demostración: Plataforma B2B de Cotizaciones y Analítica', 'Plataforma para partners conectada a e-commerce con micrositios interactivos de propuesta para clientes y panel analítico de inventario.')">
+                                <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+                                Ver Video Demostrativo
+                            </button>
+                        </div>
                     </div>
                     <div class="project-card">
                         <h3>Diseño e Integración de Control Domótico</h3>
@@ -239,17 +251,16 @@
     <div id="videoModal" class="modal no-print" onclick="closeModalOnBackdrop(event)">
         <div class="modal-dialog">
             <div class="modal-header">
-                <h3>Demostración: Plataforma de Gestión con IA</h3>
+                <h3 id="modalTitle">Demostración</h3>
                 <button type="button" class="modal-close-btn" onclick="closeVideoModal()" aria-label="Cerrar">&times;</button>
             </div>
             <div class="modal-body">
                 <video id="demoVideo" controls preload="metadata" playsinline>
-                    <source src="demo-condominios.mp4" type="video/mp4">
                     Tu navegador no soporta la reproducción de video HTML5.
                 </video>
             </div>
             <div class="modal-footer">
-                <p>Presentación y recorrido del sistema de gestión y automatización desarrollado por Luis Daniel Jiménez Campos.</p>
+                <p id="modalDesc">Presentación y recorrido del sistema desarrollado por Luis Daniel Jiménez Campos.</p>
             </div>
         </div>
     </div>
@@ -270,9 +281,22 @@
             }
         }
 
-        function openVideoModal() {
+        function openVideoModal(videoSrc, title, description) {
             const modal = document.getElementById('videoModal');
             const video = document.getElementById('demoVideo');
+            const modalTitle = document.getElementById('modalTitle');
+            const modalDesc = document.getElementById('modalDesc');
+
+            if (videoSrc) {
+                video.src = videoSrc;
+            }
+            if (modalTitle && title) {
+                modalTitle.textContent = title;
+            }
+            if (modalDesc && description) {
+                modalDesc.textContent = description;
+            }
+
             modal.classList.add('active');
             document.body.style.overflow = 'hidden';
             video.currentTime = 0;
@@ -284,7 +308,11 @@
         function closeVideoModal() {
             const modal = document.getElementById('videoModal');
             const video = document.getElementById('demoVideo');
-            if (video) video.pause();
+            if (video) {
+                video.pause();
+                video.removeAttribute('src');
+                video.load();
+            }
             modal.classList.remove('active');
             document.body.style.overflow = '';
         }
