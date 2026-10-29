@@ -5,7 +5,7 @@ Caracas, Caricuao, Distrito Capital, Venezuela | +58 414 2576382 | ldjc293@gmail
 ---
 
 ## RESUMEN PROFESIONAL
-Ingeniero Mecánico egresado de la **Universidad Central de Venezuela (UCV)** con sólida base teórica y práctica en instrumentación industrial, control de procesos y automatización. Experiencia docente activa liderando laboratorios universitarios de instrumentación, especializándose en la calibración de sensores de presión y temperatura. Trayectoria profesional en ingeniería de domótica en **Automatización Corp**, integrando sistemas de control lógico, redes de datos y automatización residencial/comercial inteligente. Capacidad demostrada para fusionar la ingeniería física con tecnologías avanzadas, incluyendo el desarrollo de soluciones de Inteligencia Artificial (IA) y análisis de datos para la optimización de procesos de negocio e inventarios. Apasionado por aportar esta sinergia de control físico, conectividad de redes y analítica predictiva en el rol de **Ingeniero de Instrumentación y Control**.
+Ingeniero Mecánico egresado de la **Universidad Central de Venezuela (UCV)** con conocimientos básicos en teoría y práctica de instrumentación industrial, control de procesos y automatización. Experiencia docente activa liderando laboratorios universitarios de instrumentación, especializándose en la calibración de sensores de presión y temperatura. Trayectoria profesional en ingeniería de domótica en **Automatización Corp**, integrando sistemas de control lógico, redes de datos y automatización residencial/comercial inteligente. Capacidad demostrada para fusionar la ingeniería física con tecnologías avanzadas, incluyendo el desarrollo de soluciones de Inteligencia Artificial (IA) y análisis de datos para la optimización de procesos de negocio e inventarios. Apasionado por aportar esta sinergia de control físico, conectividad de redes y analítica predictiva en el rol de **Ingeniero de Instrumentación y Control**.
 
 ---
 
@@ -44,7 +44,7 @@ Ingeniero Mecánico egresado de la **Universidad Central de Venezuela (UCV)** co
 
 ## PROYECTOS DESTACADOS
 
-*   **Plataforma Web con IA para Gestión de Condominios:** Desarrollo de una aplicación web integrada con algoritmos de IA para la automatización del registro y optimización de flujos de pago.
+*   **Plataforma Web con IA para Gestión de Condominios:** Desarrollo de una aplicación web integrada con algoritmos de IA para la automatización del registro y optimización de flujos de pago. *(Cuenta con video demostrativo de funcionamiento)*
 *   **Sistema de Analítica de Datos para E-commerce:** Creación de un pipeline de análisis de datos para la empresa actual, automatizando la predicción de demanda de inventario y tendencias de productos domóticos.
 *   **Diseño e Integración de Control Domótico:** Programación avanzada de rutinas lógicas de control para automatización de iluminación, clima y seguridad en proyectos residenciales premium.
 
