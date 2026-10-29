@@ -5,7 +5,7 @@ Caracas, Caricuao, Distrito Capital, Venezuela | +58 414 2576382 | ldjc293@gmail
 ---
 
 ## RESUMEN PROFESIONAL
-Ingeniero Mecánico egresado de la **Universidad Central de Venezuela (UCV)** con conocimientos básicos en teoría y práctica de instrumentación industrial, control de procesos y automatización. Experiencia docente activa liderando laboratorios universitarios de instrumentación, especializándose en la calibración de sensores de presión y temperatura. Trayectoria profesional en ingeniería de domótica en **Automatización Corp**, integrando sistemas de control lógico, redes de datos y automatización residencial/comercial inteligente. Capacidad demostrada para fusionar la ingeniería física con tecnologías avanzadas, incluyendo el desarrollo de soluciones de Inteligencia Artificial (IA) y análisis de datos para la optimización de procesos de negocio e inventarios. Apasionado por aportar esta sinergia de control físico, conectividad de redes y analítica predictiva en el rol de **Ingeniero de Instrumentación y Control**.
+Ingeniero Mecánico egresado de la **Universidad Central de Venezuela (UCV)** con conocimientos básicos en teoría y práctica de instrumentación industrial, control de procesos y automatización. Experiencia docente activa liderando laboratorios universitarios de instrumentación, especializándose en la calibración de sensores de presión y temperatura. Trayectoria profesional en ingeniería de domótica en **Automatización Corp**, integrando sistemas de control lógico, redes de datos y automatización residencial/comercial inteligente. Capacidad demostrada para fusionar la ingeniería física con tecnologías avanzadas, incluyendo la estructuración y gestión de bases de datos relacionales (SQL), el desarrollo de soluciones de Inteligencia Artificial (IA) y análisis de datos para la optimización de procesos de negocio e inventarios. Apasionado por aportar esta sinergia de control físico, conectividad de redes y analítica predictiva en el rol de **Ingeniero de Instrumentación y Control**.
 
 ---
 
@@ -14,7 +14,8 @@ Ingeniero Mecánico egresado de la **Universidad Central de Venezuela (UCV)** co
 *   **Instrumentación y Control:** Calibración de sensores (presión, temperatura), interpretación de diagramas P&ID, teoría de lazo de control cerrado (PID), selección de instrumentos, automatización y control lógico.
 *   **Domótica e Integración:** Programación y puesta en marcha de sistemas inteligentes (casas inteligentes/edificios), protocolos de comunicación (Zigbee, Modbus, Wi-Fi, Ethernet), integración de controladores lógicos y actuadores.
 *   **Redes e Infraestructura IT:** Resolución de problemas de redes TCP/IP, direccionamiento IP, diagnóstico de conectividad LAN/WLAN y cableado estructurado.
-*   **Software e Inteligencia Artificial:** Desarrollo web y análisis de datos (Data Analytics) con enfoque en IA. Dominio de Python, SQL, integración de APIs y diseño de algoritmos de optimización.
+*   **Bases de Datos & Arquitectura SQL:** Estructuración, modelado relacional y administración de bases de datos SQL. Diseño de esquemas entidad-relación, normalización de tablas, consultas optimizadas e integridad de datos en entornos de producción.
+*   **Software e Inteligencia Artificial:** Desarrollo de aplicaciones web, integración de APIs y análisis de datos (Data Analytics) con enfoque en IA. Dominio de Python, SQL, diseño de algoritmos de optimización y automatización de flujos operativos.
 *   **Habilidades Blandas:** Aprendizaje acelerado y alta adaptabilidad para dominar nuevos procesos, metodologías y funciones en cualquier área técnica de forma rápida. Liderazgo técnico, docencia/capacitación universitaria, y resolución analítica de problemas bajo presión.
 
 ---
@@ -44,8 +45,8 @@ Ingeniero Mecánico egresado de la **Universidad Central de Venezuela (UCV)** co
 
 ## PROYECTOS DESTACADOS
 
-*   **Plataforma Web con IA para Gestión de Condominios:** Desarrollo de una aplicación web integrada con algoritmos de IA para la automatización del registro y optimización de flujos de pago. *(Cuenta con video demostrativo de funcionamiento)*
-*   **Plataforma B2B de Cotizaciones y Analítica de Inventario:** Desarrollo de un sistema conectado a la tienda de e-commerce que permite a empresas partners generar cotizaciones personalizadas de marca blanca, sincronizar pedidos y generar micrositios web interactivos por propuesta con aprobación/rechazo en línea para el cliente final, además de un módulo analítico para la gestión y predicción de inventario. *(Cuenta con video demostrativo de funcionamiento)*
+*   **Plataforma Web con IA para Gestión de Condominios:** Desarrollo de una aplicación web respaldada por una base de datos relacional SQL (diseño de arquitectura relacional para control de usuarios, cobros y conciliación) e integrada con modelos de IA para la automatización del registro y optimización de flujos de pago. *(Cuenta con video demostrativo de funcionamiento)*
+*   **Plataforma B2B de Cotizaciones y Analítica de Inventario:** Desarrollo de un sistema estructurado sobre base de datos SQL para la administración de catálogos, socios comerciales y pedidos. Permite a empresas partners generar cotizaciones personalizadas de marca blanca, sincronizar carritos con la tienda de e-commerce y generar micrositios web interactivos por propuesta con aprobación/rechazo en línea para el cliente final, además de un módulo analítico de inventario. *(Cuenta con video demostrativo de funcionamiento)*
 *   **Diseño e Integración de Control Domótico:** Programación avanzada de rutinas lógicas de control para automatización de iluminación, clima y seguridad en proyectos residenciales premium.
 
 ---
